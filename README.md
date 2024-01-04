@@ -1,2 +1,2 @@
 # -Geometric-calculation
- Geometric Calculation
+ Geometric Calculation IN HTML - BOOTSTRAP - JQUERY
